@@ -12,7 +12,7 @@ CashPlan is a privacy-focused financial planning app for Android that comes with
 To install CashPlan, you can download the APK file from the releases page and install it on your Android device. Alternatively, you can clone this repository and build the app using Android Studio.
 
 ## Usage
-Using CashPlan is easy. Simply launch the app, follow the on-screen instructions to set up your budget and financial goals, and start tracking your expenses. You can view your budget and expenses on the main screen, and access personalized financial advice by tapping on the "Advice" tab.
+Using CashPlan is easy. Simply launch the app, follow the on-screen instructions to set up your budget and financial goals, and start devising your financial plans. 
 
 ## Contributing
 If you want to contribute to CashPlan, feel free to fork this repository and submit a pull request. You can also submit bug reports and feature requests on the issues page.
